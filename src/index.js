@@ -1,3 +1,2 @@
 import './main.scss';
-
-console.log('Hello IT-academy student 🚀');
+import './components/DYN_FORM/DYN_FORM';
